@@ -498,7 +498,7 @@ The application is deployed on Streamlit Cloud.
 
 **Live Application:**
 
-https://creditguard-ai.streamlit.app
+https://crediguard-ai-5nffsyyuzzpwpsycofghj7.streamlit.app/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
