@@ -8,3 +8,4 @@ shap
 streamlit-option-menu
 joblib==1.5.2
 fpdf
+reportlab
