@@ -9,3 +9,4 @@ shap
 streamlit-option-menu
 reportlab
 fpdf
+imbalanced-learn
