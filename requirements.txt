@@ -1,0 +1,10 @@
+streamlit==1.56.0
+pandas==2.3.3
+numpy==2.4.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+plotly==5.24.1
+shap
+streamlit-option-menu
+joblib==1.5.2
+fpdf
